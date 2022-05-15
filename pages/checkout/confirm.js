@@ -10,7 +10,7 @@ function Confirm() {
   return (
     <>
       <Head>
-        <title>Order | commerce</title>
+        <title>EGR Fashion | Designer Store | Order</title>
       </Head>
       <OrderConfirm />
     </>

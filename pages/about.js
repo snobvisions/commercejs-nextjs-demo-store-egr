@@ -6,7 +6,7 @@ import Footer from '../components/common/Footer';
 const About = () => (
   <Root>
     <Head>
-      <title>About | commerce</title>
+      <title>EGR Fashion | Designer Store | About</title>
     </Head>
     <div className="about-container">
       {/* Row */}
@@ -14,17 +14,18 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
             <div className="h-100 d-flex flex-column py-5 px-4 px-sm-5 justify-content-center">
               <h2 className="font-size-header mb-4">
-                Commerce.js Demo Store
+              EGR Everyday Getting Rich WorldWide
               </h2>
               <h4 className="font-size-subheader mb-4">
-                This is an open source storefront built using Chec’s headless architecture and the Commerce.js SDK. Commerce.js is a smarter, more efficient way to build eCommerce projects, and we hope you can see that as you explore the world custom eCommerce. Please build on top of, or pick apart this project for your own use. Everything in this project, from the storefront, to the cart, checkout and receipt, is 100% customizable. To build more custom eCommerce projects, using any frontend framework or platform, head over to <a href="https://commercejs.com/" target="_blank" className="cjs-link" rel="noopener noreferrer">commercejs.com</a>.
+              Who We Are - <a href="https://egr.com/" target="_blank" className="cjs-link" rel="noopener noreferrer">Everyday Getting Rich</a>.
+                 If you would like to see videos of our customers wearing our glasses!
               </h4>
               <div className="about-cjs mt-3 d-flex flex-row">
-                <a className="px-4 py-3 font-color-white about-doc" href="https://commercejs.com/docs/" target="_blank" rel="noopener noreferrer">
-                  Documentation
+                <a className="px-4 py-3 font-color-white about-doc" href="https://youtube.com/" target="_blank" rel="noopener noreferrer">
+                EGR YouTube
                 </a>
-                <a className="px-4 py-3 about-dev" href="https://commercejs.com/docs/community/" target="_blank" rel="noopener noreferrer">
-                  Guides from the community
+                <a className="px-4 py-3 about-dev" href="https://youtube.com/" target="_blank" rel="noopener noreferrer">
+                Send us your video via email
                 </a>
               </div>
             </div>
@@ -33,7 +34,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/cjs-illustration.svg" alt="Commerce.js illustration"/>
+              <img src="/cjs-illustration.svg" alt="EGR Commerce illustration"/>
             </div>
           </div>
         </div>
@@ -44,7 +45,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/netlify-illustration.svg" alt="Netlify illustration"/>
+              <img src="/netlify-illustration.svg" alt="EGR Commerce illustration"/>
             </div>
           </div>
         </div>
@@ -52,19 +53,22 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
           <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
             <h3 className="font-size-header mb-4">
-              Deploy to Netlify
+            Buy EGR Wear.
             </h3>
             <h4 className="font-size-subheader mb-4">
-              If you would like to deploy this project live today, click the button below and watch the magic happen!
+            7 out of 10 adults in the U.S need eye correction. When we founded our company because it was very clear to see that people were
+            overpaying for glasses as they were perceived mainly as a health necessity and the stores were taking advantage of that.
+            Back then the variety was limited and the prices were so high that purchasing eyewear was considered a burden.
+            This is still true in many cases and we are here to change that, to make a difference.
             </h4>
             <div className="mt-3">
               <a
                 className="px-4 py-3 flex-grow-1 font-color-white about-net"
-                href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store"
+                href="https://egr.com/collection"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Deploy to Netlify
+                Click Here.
               </a>
             </div>
           </div>
@@ -76,19 +80,19 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
           <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
             <h3 className="font-size-header mb-4">
-              Clone in GitHub
+              Other EGR Products
             </h3>
             <h4 className="font-size-subheader mb-4">
-            If you would like to clone this project and do a manual setup, go to the repository below!
+            We have other items you can buy, from clothing, perfume/cologne, jewelry and much more.
             </h4>
             <div className="mt-3">
               <a
                 className="px-4 py-3 flex-grow-1 font-color-white about-gb"
-                href="https://github.com/chec/commercejs-nextjs-demo-store"
+                href="https://www.egrwear.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Clone in GitHub
+                Our Collection
               </a>
             </div>
           </div>
@@ -116,10 +120,10 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
           <div className="h-100 d-flex flex-column py-5 px-4 px-sm-5">
             <h3 className="font-size-header mb-4">
-              Technical Blog
+            Cigars and Cars Blog
             </h3>
             <h4 className="font-size-subheader mb-4">
-              Read the full technical tutorial here if you want to get into the nitty gritty!
+            Read and Watch the full blog here if you want to get into the nitty gritty!
             </h4>
             <div className="mt-3">
               <a
@@ -128,7 +132,7 @@ const About = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Read Blog
+                Read/Watch Blog
               </a>
             </div>
           </div>
