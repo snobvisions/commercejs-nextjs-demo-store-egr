@@ -6,12 +6,12 @@ const Footer = () => (
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Commerce.js
+            We Buy EGR
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://commercejs.com/docs/"
+                href="https://"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -19,7 +19,7 @@ const Footer = () => (
                 Documentation
               </a>
               <a
-                href="https://commercejs.com/features"
+                href="https://"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -29,7 +29,7 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://commercejs.com/about"
+                href="https://www.egr.com/about"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -37,12 +37,12 @@ const Footer = () => (
                 About
               </a>
               <a
-                href="http://slack.commercejs.com/"
+                href="https://www.egr.com/bulk"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Community
+                Bulk Order
               </a>
             </div>
           </div>
@@ -54,7 +54,7 @@ const Footer = () => (
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://twitter.com/commercejs"
+                href="https://twitter.com/"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -62,7 +62,7 @@ const Footer = () => (
                 Twitter
               </a>
               <a
-                href="https://www.instagram.com/commerce.js/"
+                href="https://www.instagram.com/"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -72,20 +72,20 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://angel.co/company/chec"
+                href="https://www.facebook.com"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Angel
+                Facebook
               </a>
               <a
-                href="https://www.linkedin.com/company/chec-chec-commerce-inc.-/"
+                href="https://youtube.com"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LinkedIn
+                Youtube
               </a>
             </div>
           </div>
@@ -111,40 +111,40 @@ const Footer = () => (
         <div className="custom-container d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div className="pt-5 pb-0 pt-md-4 pb-md-4 d-flex align-items-center flex-wrap justify-content-center">
             <a
-              href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store"
+              href="https://egr.com"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Deploy to Netlify
+              EGR.com
             </a>
             <p className="px-2 font-color-brand font-size-caption">-</p>
             <a
-              href="https://github.com/chec/commercejs-nextjs-demo-store"
+              href="https://egrwear.com"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Clone in GitHub
+              EGRwear.com
             </a>
             <p className="px-2 font-color-brand font-size-caption">-</p>
             <a
-              href="https://github.com/chec/commercejs-nextjs-demo-store"
+              href="https://egr.com"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Contribute
+              &copy; { new Date().getFullYear() } EGR - Everyday Getting Rich.
             </a>
           </div>
           <div className="font-color-brand font-size-caption py-4 text-right">
           <a
-              href="https://commercejs.com/"
+              href="https://masstermarketing.com/"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
               rel="noopener noreferrer"
             >
-              &copy; { new Date().getFullYear() } Chec/Commerce.js.
+              &copy; { new Date().getFullYear() } MassterMarketing.com.
             </a>
           </div>
         </div>
