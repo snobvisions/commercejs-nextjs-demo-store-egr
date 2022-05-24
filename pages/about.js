@@ -14,8 +14,8 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
             <div className="h-100 d-flex flex-column py-5 px-4 px-sm-5 justify-content-center">
               <h2 className="font-size-header mb-4">
-              EGR Everyday Getting Rich WorldWide
-              </h2>
+              Everyday Getting Rich
+                            </h2>
               <h4 className="font-size-subheader mb-4">
               Who We Are - <a href="https://egr.com/" target="_blank" className="cjs-link" rel="noopener noreferrer">Everyday Getting Rich</a>.
                  If you would like to see videos of our customers wearing our glasses!
