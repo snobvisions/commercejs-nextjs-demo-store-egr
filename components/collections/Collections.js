@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Root from '../../components/common/Root';
 import Link from 'next/link';
 import { connect } from 'react-redux';
+import ProductCard from '../products/ProductCard';
 class Confirm extends Component {
   constructor(props) {
     super(props);
